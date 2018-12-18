@@ -1,2 +1,2 @@
-
 I am updating second line
+This is my first line.
