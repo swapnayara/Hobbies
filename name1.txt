@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello swapna how are you
 
+=======
+This is swapna's repos
+>>>>>>> af4694fb3069f81c8a6b380a5435ad17db5cd0c9
